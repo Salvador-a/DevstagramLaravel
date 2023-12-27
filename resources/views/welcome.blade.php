@@ -1,5 +1,5 @@
 @extends('layouts.app')
 
 @section('titulo')
-Hola desde Welcom
+Holis 
 @endsection 
