@@ -2,4 +2,4 @@
 
 @section('titulo')
 Hola desde Welcom
-@endsection
+@endsection 
