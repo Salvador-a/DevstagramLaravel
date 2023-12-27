@@ -1,5 +1,5 @@
 @extends('layouts.app')
 
 @section('titulo')
-Ya estoy hasta la mader    
+Principal  
 @endsection
