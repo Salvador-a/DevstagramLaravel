@@ -7,6 +7,6 @@
         <title>Laravel</title>
     </head>
     <body >
-        <h1>Hola Mundo en Laravel</h1>
+        <h1>@yield('titulo')</h1>
     </body>
 </html>
